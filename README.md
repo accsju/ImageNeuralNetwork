@@ -1,2 +1,2 @@
 # ImageNeuralNetwork
-none
+3つの画像分類をするニューラルネットワークのプログラムを作成しました。
